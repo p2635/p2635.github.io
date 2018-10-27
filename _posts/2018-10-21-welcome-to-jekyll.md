@@ -1,7 +1,0 @@
----
-layout: post
-title:  "I started a website"
-date:   2018-10-21 03:54:27 +0100
-categories: website
----
-That's it really.
