@@ -10,12 +10,11 @@ title: Philip Wong
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
     Welcome to my space where I post stuff on the web.
-# the subpath of your site, e.g. /blog    
+# the subpath of your site, e.g. /blog
 baseurl: ""
 # the base hostname & protocol for your site
 url: "http://pwong.co.uk"
+# Theme settings
+theme: minima
 github_username: p2635
 youtube_username: philwong2011
-
-# Build settings
-markdown: kramdown
