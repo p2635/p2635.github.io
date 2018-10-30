@@ -6,8 +6,8 @@
 </description>
     <link>http://pwong.co.uk/</link>
     <atom:link href="http://pwong.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Oct 2018 21:19:39 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Oct 2018 21:19:39 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Oct 2018 21:24:53 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 21:24:53 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -45,8 +45,8 @@
       </item>
     
       <item>
-        <title>I started a website</title>
-        <description>&lt;p&gt;That’s it really. Sometimes I will post about languages, sometimes about QA.&lt;/p&gt;
+        <title>Welcome</title>
+        <description>&lt;p&gt;I started a website. That’s it really. Sometimes I will post about languages, sometimes about QA.&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Oct 2018 03:54:27 +0100</pubDate>
         <link>http://pwong.co.uk/website/2018/10/21/welcome.html</link>
