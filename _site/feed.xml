@@ -1,40 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Philip Wong</title>
+    <description>Welcome to my space where I post stuff on the web.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Oct 2018 19:17:13 +0100</pubDate>
-    <lastBuildDate>Wed, 24 Oct 2018 19:17:13 +0100</lastBuildDate>
+    <link>http://pwong.co.uk/</link>
+    <atom:link href="http://pwong.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 30 Oct 2018 20:59:31 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 20:59:31 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>#30DaysOfSecurityTesting - Day 1</title>
+        <description>&lt;p&gt;我今日開始了這個&lt;a href=&quot;https://www.ministryoftesting.com/dojo/lessons/30-days-of-security-testing&quot;&gt;#30daysofsecuritytesting的挑戰&lt;/a&gt;。我第一天就已經遇到困難，我的Day 1不知道應該看什麼blog才好。由於我最近才開始QA的工作，我是一個初學者所以我還有很多的不懂。幸好MoT(Ministry of Testing)有一個Slack group，我加入了就有很多樂意恊助我的伙伴。我今天看的blog就是&lt;a href=&quot;https://krebsonsecurity.com/2018/10/mirai-co-author-gets-6-months-confinement-8-6m-in-fines-for-rutgers-attacks/&quot;&gt;這個傢伙&lt;/a&gt;，聰明人為何惹麻煩呢?有智慧居然搞DDoS不好好學習，何必?&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
+&lt;p&gt;Today I started the &lt;a href=&quot;https://www.ministryoftesting.com/dojo/lessons/30-days-of-security-testing&quot;&gt;#30DaysOfSecurityTesting challenge&lt;/a&gt;. I’m already stuck on my first day, I don’t know what to read for my day 1. As I just started in QA, I’m still a newbie so there is a lot I don’t know. Luckily MoT (Ministry of Testing) has a Slack group, lots of people are willing to help me once I joined. Today I read about &lt;a href=&quot;https://krebsonsecurity.com/2018/10/mirai-co-author-gets-6-months-confinement-8-6m-in-fines-for-rutgers-attacks/&quot;&gt;this fellow&lt;/a&gt;，clever boy why do you have to get in trouble? Why don’t you just save your intelligence for your studies?&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Oct 2018 19:17:00 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2018/10/24/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/10/24/welcome-to-jekyll.html</guid>
+        <pubDate>Sat, 27 Oct 2018 20:13:27 +0100</pubDate>
+        <link>http://pwong.co.uk/testing/2018/10/27/d1sec.html</link>
+        <guid isPermaLink="true">http://pwong.co.uk/testing/2018/10/27/d1sec.html</guid>
         
         
-        <category>jekyll</category>
+        <category>testing</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>アフターダーク</title>
+        <description>&lt;p&gt;我今天才發現，如果我每天只看半頁，那我一定要花差不多兩年的時間才能完成這本書。這個不行，我想最短兩個月的時間完成。那就是每天只少看五頁(288/60=5)。一年可以學到多少生詞呢? 如果你想達到流利水平，那只少需要10,000 words，每天學30個生詞就已經超棒(10,000/365)！當然，這只是我的推理也不一定是對的。只少我已經走出第一步。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Oct 2018 20:13:27 +0100</pubDate>
+        <link>http://pwong.co.uk/reading/2018/10/27/ad2.html</link>
+        <guid isPermaLink="true">http://pwong.co.uk/reading/2018/10/27/ad2.html</guid>
+        
+        
+        <category>reading</category>
+        
+      </item>
+    
+      <item>
+        <title>I started a website</title>
+        <description>&lt;p&gt;That’s it really.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 21 Oct 2018 03:54:27 +0100</pubDate>
+        <link>http://pwong.co.uk/website/2018/10/21/welcome.html</link>
+        <guid isPermaLink="true">http://pwong.co.uk/website/2018/10/21/welcome.html</guid>
+        
+        
+        <category>website</category>
         
       </item>
     
