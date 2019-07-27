@@ -2,7 +2,7 @@
 layout: post
 title:  "How much time do I really put into immersing in a language?"
 date:   2019-07-22 22:22:00 +0100
-categories: learning
+categories: learning languages
 ---
 It's been a long long time since I updated the website at all. Life gets in the way and so this domain name has been left to collect d... web crawlers? Not that this website gets a million a hits a day. Anyways, I've been trying to improve my Chinese lately so I have been trying to read more. As part of this process I've been really putting my head down and trying to read novels. (I said 'really' quite a lot here.) I started off with a novel about a guy who writes wills for people who wanna suicide. Completed that one, pretty sad and dark but an amazing thriller and bits of humour I've gotta say. Here's the link: https://www.shikoto.com/articles/81457.html. Although this is written in Cantonese rather than SWC (Standard Written Chinese), so SORRY if you're not a Cantonese speaker.
 
