@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How much time do I really put into immersing in a language?"
+title:  "Dictionary, friend or foe?"
 date:   2019-07-22 22:22:00 +0100
 categories: learning languages
 ---
