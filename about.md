@@ -10,7 +10,7 @@ In my free time, I like to study Japanese. For exercise, I don't.
 
 # Tech Setup
 * Laptop: Lenovo X270
-* OS: Kubuntu 18.04
+* OS: Kubuntu 19.04
 
 # Goodreads reading challenge
 
