@@ -18,3 +18,5 @@ url: "http://pwong.co.uk"
 theme: minima
 github_username: p2635
 youtube_username: philwong2011
+plugins:
+    - jekyll-feed
